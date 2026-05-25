@@ -1,0 +1,11 @@
+Training Accuracy,0.9971375
+Validation Accuracy (Post Optuna Tuning),0.9923
+Test Accuracy,0.992
+Macro Average Recall,0.9835854099225093
+Per Class Recall,[0.99358974 0.9582505  0.99891599]
+Macro Average Precision,0.9900535785026818
+Per Class Precision,[0.99134688 0.98367347 0.99514039]
+Macro Average F1 Score,0.986762408949907
+Per Class F1 Score,[0.99246704 0.97079557 0.99702461]
+Sensitivity,[0.99358974 0.9582505  0.99891599]
+Specificity,[0.99020443 0.99822104 0.99714739]
